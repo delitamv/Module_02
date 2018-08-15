@@ -6,7 +6,9 @@ public class HomeWork_02 {
 
         System.out.print("Имя: ");
         String name = scanner.nextLine();
-        System.out.println("Город: ");
+        System.out.print("Город: ");
         String city = scanner.nextLine();
+        System.out.print("Возраст: ");
+        int age = scanner.nextInt();
                     }
 }
